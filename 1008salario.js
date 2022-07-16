@@ -9,4 +9,4 @@ var valorHora = valores.shift();
 var salario = qtHorasTrabalhadas * valorHora;
 
 console.log("NUMBER = " + idFuncionario);
-console.log("SALARY = U$ " + salario.toFixed(2));
+console.log( "SALARY = U$ " + salario.toFixed(2));
